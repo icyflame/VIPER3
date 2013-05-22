@@ -1,0 +1,54 @@
+﻿  Main.cpp
+z:\viper\viper 3\viper 3\main.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(101): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(102): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(109): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(185): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(223): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+z:\viper\viper 3\viper 3\main.cpp(262): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(280): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(290): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(336): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(380): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(314): warning C4101: 'ch' : unreferenced local variable
+z:\viper\viper 3\viper 3\main.cpp(519): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(521): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(546): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'long', possible loss of data
+z:\viper\viper 3\viper 3\main.cpp(567): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(561): warning C4101: 'ch' : unreferenced local variable
+z:\viper\viper 3\viper 3\main.cpp(772): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(870): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(953): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+z:\viper\viper 3\viper 3\main.cpp(1056): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+z:\viper\viper 3\viper 3\main.cpp(1070): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'long', possible loss of data
+  LINK : Z:\VIPER\VIPER 3\Debug\VIPER 3.exe not found or not built by the last incremental link; performing full link
+  VIPER 3.vcxproj -> Z:\VIPER\VIPER 3\Debug\VIPER 3.exe
